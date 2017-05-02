@@ -5,7 +5,7 @@ var portales = [];
 var movx = 0;
 var movy = 0;
 var puntuacion = 0;
-var vida = 10;
+var vida = 100;
 var fondo;
 var bool;
 
